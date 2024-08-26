@@ -93,3 +93,4 @@
 /Users/mustafa/RiderProjects/GameSystems/InventorySystem.Tests/obj/Debug/net8.0/InventorySystem.Tests.pdb
 /Users/mustafa/RiderProjects/GameSystems/InventorySystem.Tests/obj/Debug/net8.0/InventorySystem.Tests.genruntimeconfig.cache
 /Users/mustafa/RiderProjects/GameSystems/InventorySystem.Tests/obj/Debug/net8.0/ref/InventorySystem.Tests.dll
+/Users/mustafa/RiderProjects/GameSystems/InventorySystem.Tests/obj/Debug/net8.0/InventorySystem.Tests.sourcelink.json

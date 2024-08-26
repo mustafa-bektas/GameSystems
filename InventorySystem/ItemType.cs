@@ -5,5 +5,5 @@ public enum ItemType
     Consumable,
     Weapon,
     Armor,
-    QuestItem
+    Material
 }

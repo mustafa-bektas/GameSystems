@@ -9,3 +9,4 @@
 /Users/mustafa/RiderProjects/GameSystems/InventorySystem/obj/Debug/net8.0/refint/InventorySystem.dll
 /Users/mustafa/RiderProjects/GameSystems/InventorySystem/obj/Debug/net8.0/InventorySystem.pdb
 /Users/mustafa/RiderProjects/GameSystems/InventorySystem/obj/Debug/net8.0/ref/InventorySystem.dll
+/Users/mustafa/RiderProjects/GameSystems/InventorySystem/obj/Debug/net8.0/InventorySystem.sourcelink.json
