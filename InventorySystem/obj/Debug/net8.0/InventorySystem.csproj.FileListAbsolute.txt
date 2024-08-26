@@ -1,0 +1,11 @@
+/Users/mustafa/RiderProjects/GameSystems/InventorySystem/bin/Debug/net8.0/InventorySystem.deps.json
+/Users/mustafa/RiderProjects/GameSystems/InventorySystem/bin/Debug/net8.0/InventorySystem.dll
+/Users/mustafa/RiderProjects/GameSystems/InventorySystem/bin/Debug/net8.0/InventorySystem.pdb
+/Users/mustafa/RiderProjects/GameSystems/InventorySystem/obj/Debug/net8.0/InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafa/RiderProjects/GameSystems/InventorySystem/obj/Debug/net8.0/InventorySystem.AssemblyInfoInputs.cache
+/Users/mustafa/RiderProjects/GameSystems/InventorySystem/obj/Debug/net8.0/InventorySystem.AssemblyInfo.cs
+/Users/mustafa/RiderProjects/GameSystems/InventorySystem/obj/Debug/net8.0/InventorySystem.csproj.CoreCompileInputs.cache
+/Users/mustafa/RiderProjects/GameSystems/InventorySystem/obj/Debug/net8.0/InventorySystem.dll
+/Users/mustafa/RiderProjects/GameSystems/InventorySystem/obj/Debug/net8.0/refint/InventorySystem.dll
+/Users/mustafa/RiderProjects/GameSystems/InventorySystem/obj/Debug/net8.0/InventorySystem.pdb
+/Users/mustafa/RiderProjects/GameSystems/InventorySystem/obj/Debug/net8.0/ref/InventorySystem.dll

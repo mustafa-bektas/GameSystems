@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{F1E3C8AC-3322-444D-BEB0-D19783B453ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{0DAA03DC-EE18-4CC6-AFC5-258C0B732F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventorySystem", "InventorySystem\InventorySystem.csproj", "{42511051-EA15-4105-AD3D-293D2A1BC8A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventorySystem.Tests", "InventorySystem.Tests\InventorySystem.Tests.csproj", "{82AF32DF-B160-4CF9-BB68-FAF4BF30121B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{42511051-EA15-4105-AD3D-293D2A1BC8A0} = {F1E3C8AC-3322-444D-BEB0-D19783B453ED}
+		{82AF32DF-B160-4CF9-BB68-FAF4BF30121B} = {0DAA03DC-EE18-4CC6-AFC5-258C0B732F23}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42511051-EA15-4105-AD3D-293D2A1BC8A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42511051-EA15-4105-AD3D-293D2A1BC8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42511051-EA15-4105-AD3D-293D2A1BC8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42511051-EA15-4105-AD3D-293D2A1BC8A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82AF32DF-B160-4CF9-BB68-FAF4BF30121B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82AF32DF-B160-4CF9-BB68-FAF4BF30121B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82AF32DF-B160-4CF9-BB68-FAF4BF30121B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82AF32DF-B160-4CF9-BB68-FAF4BF30121B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

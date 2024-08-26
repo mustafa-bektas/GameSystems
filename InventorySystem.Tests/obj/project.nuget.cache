@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "WGJFHKpECHc=",
+  "success": true,
+  "projectFilePath": "/Users/mustafa/RiderProjects/GameSystems/InventorySystem.Tests/InventorySystem.Tests.csproj",
+  "expectedPackageFiles": [
+    "/Users/mustafa/.nuget/packages/microsoft.codecoverage/17.11.0/microsoft.codecoverage.17.11.0.nupkg.sha512",
+    "/Users/mustafa/.nuget/packages/microsoft.net.test.sdk/17.11.0/microsoft.net.test.sdk.17.11.0.nupkg.sha512",
+    "/Users/mustafa/.nuget/packages/microsoft.testplatform.objectmodel/17.11.0/microsoft.testplatform.objectmodel.17.11.0.nupkg.sha512",
+    "/Users/mustafa/.nuget/packages/microsoft.testplatform.testhost/17.11.0/microsoft.testplatform.testhost.17.11.0.nupkg.sha512",
+    "/Users/mustafa/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/mustafa/.nuget/packages/nunit/4.2.1/nunit.4.2.1.nupkg.sha512",
+    "/Users/mustafa/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
