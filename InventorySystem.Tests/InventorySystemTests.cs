@@ -19,9 +19,10 @@ public class InventorySystemTests
         string itemName = "Health Potion";
         ItemType itemType = ItemType.Consumable;
         int itemQuantity = 5;
+        int weight = 1;
 
         // Act
-        _inventory.AddItem(itemName, itemType, itemQuantity);
+        _inventory.AddItem(itemName, itemType, itemQuantity, weight);
 
         // Assert
         Assert.That(_inventory.HasItem(itemName, itemType, itemQuantity), Is.True);
@@ -35,10 +36,11 @@ public class InventorySystemTests
         ItemType itemType = ItemType.Consumable;
         int initialQuantity = 5;
         int additionalQuantity = 3;
+        int weight = 1;
 
         // Act
-        _inventory.AddItem(itemName, itemType, initialQuantity);
-        _inventory.AddItem(itemName, itemType, additionalQuantity);
+        _inventory.AddItem(itemName, itemType, initialQuantity, weight);
+        _inventory.AddItem(itemName, itemType, additionalQuantity, weight);
 
         // Assert
         Assert.That(_inventory.HasItem(itemName, itemType, initialQuantity + additionalQuantity), Is.True);
@@ -52,9 +54,10 @@ public class InventorySystemTests
         ItemType itemType = ItemType.Consumable;
         int initialQuantity = 5;
         int removeQuantity = 3;
+        int weight = 1;
 
         // Act
-        _inventory.AddItem(itemName, itemType, initialQuantity);
+        _inventory.AddItem(itemName, itemType, initialQuantity, weight);
         _inventory.RemoveItem(itemName, itemType, removeQuantity);
 
         // Assert
@@ -69,9 +72,10 @@ public class InventorySystemTests
         ItemType itemType = ItemType.Consumable;
         int initialQuantity = 5;
         int removeQuantity = 10;
+        int weight = 1;
 
         // Act
-        _inventory.AddItem(itemName, itemType, initialQuantity);
+        _inventory.AddItem(itemName, itemType, initialQuantity, weight);
         _inventory.RemoveItem(itemName, itemType, removeQuantity);
 
         // Assert
@@ -97,8 +101,8 @@ public class InventorySystemTests
     public void DisplayInventory_ShouldListAllItems()
     {
         // Arrange
-        _inventory.AddItem("Health Potion", ItemType.Consumable, 5);
-        _inventory.AddItem("Sword", ItemType.Weapon, 1);
+        _inventory.AddItem("Health Potion", ItemType.Consumable, 5, 1);
+        _inventory.AddItem("Sword", ItemType.Weapon, 1, 1);
 
         // Act
         _inventory.DisplayInventory();
